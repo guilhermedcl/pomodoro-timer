@@ -39,7 +39,8 @@ Repositório com o projeto Pomodoro Timer desenvolvido durante o curso [JavaScri
 - HTML
 - CSS
 - ESLint
-- Node.js (para gerenciamento de dependências com NPM)
+- Prettier
+- Node.js (para gerenciamento de dependências e scripts NPM)
 
 ---
 
